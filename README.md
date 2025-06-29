@@ -15,6 +15,7 @@ Building interactive dashboards to facilitate data-driven decision-making for sa
 
 This analysis aims to support strategic planning and optimization of product offerings, customer engagement, and market expansion.
 
+<a href="https://github.com/kaliyaperumal-ca/CoffeeOrdersData-project-excel-/blob/main/Screenshot%20(223)copy-imageonline.co-merged%20(4).png">dataset</a>
 
 
 
@@ -54,7 +55,7 @@ Total Sales: $45,134.26
 Total Unique Orders: 957
 Average Order Value (AOV): ~$47.16
 
-Top Customers by Revenue-Brenn Dundredge – $307.05
+Top Customers by Revenue
 Allis Wilmore – $317.07
 Brenn Dundredge – $307.05
 Terri Farra – $289.11
