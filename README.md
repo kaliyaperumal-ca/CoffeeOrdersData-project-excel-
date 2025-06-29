@@ -15,9 +15,9 @@ Building interactive dashboards to facilitate data-driven decision-making for sa
 
 This analysis aims to support strategic planning and optimization of product offerings, customer engagement, and market expansion.
 
-<a href="https://github.com/kaliyaperumal-ca/CoffeeOrdersData-project-excel-/blob/main/Screenshot%20(223)copy-imageonline.co-merged%20(4).png">dataset</a>
 
 
+<a href="https://github.com/kaliyaperumal-ca/CoffeeOrdersData-project-excel-/blob/main/coffeeOrdersData-project%20excel%20(1).xlsx">dataset</a>
 
 
 
@@ -49,6 +49,8 @@ What is the overall profit margin?
 Which products deliver the highest return on investment (ROI)?
 Are there identifiable trends or seasonality in sales or product demand?
 
+
+<a href="https://github.com/kaliyaperumal-ca/CoffeeOrdersData-project-excel-/blob/main/Screenshot%20(223)copy-imageonline.co-merged%20(4).png">view dashboard</a>
 
 Overall Sales Performance
 Total Sales: $45,134.26
