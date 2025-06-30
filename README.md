@@ -53,7 +53,8 @@ Are there identifiable trends or seasonality in sales or product demand?
 Dashboard interaction:
 
 
-<a href="https://github.com/kaliyaperumal-ca/CoffeeOrdersData-project-excel-/blob/main/Screenshot%20(223)copy-imageonline.co-merged%20(4).png">view dashboard</a>
+<a href="https://github.com/kaliyaperumal-ca/CoffeeOrdersData-project-excel-/blob/main/dashboard.png">view dashboard</a>
+
 
 
 
